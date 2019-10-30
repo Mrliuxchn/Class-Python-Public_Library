@@ -7,6 +7,4 @@
 
 >我的[个人博客]( https://mrliuxchn.github.io/ ),或者[CSDN的博客](https://blog.csdn.net/Ys_Hentai).
 
----
-
 最后如果需要科学上网的可以联系我。✋
