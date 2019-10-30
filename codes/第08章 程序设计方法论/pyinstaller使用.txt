@@ -1,0 +1,5 @@
+20:17 2018/12/3
+能打包caltk.py程序，但在dist目录下生成的caltk.exe无法运行。
+pyinstaller -F caltk.py
+或
+pyinstaller -F -p C:\Python36\Lib\site-packages\jieba caltk.py
