@@ -3,7 +3,7 @@
 
 这里推荐大家使用一个叫Tampermonkey的插件，可以安装一个脚本很方便的使用Github比如单个文件下载
 
->我的[个人博客](mrliuxchn.github.io),或者[CSDN的博客](https://blog.csdn.net/Ys_Hentai).
+>我的[个人博客]( https://mrliuxchn.github.io/ ),或者[CSDN的博客](https://blog.csdn.net/Ys_Hentai).
 
 ---
 
